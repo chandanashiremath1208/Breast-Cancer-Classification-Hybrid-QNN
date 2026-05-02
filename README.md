@@ -64,7 +64,6 @@ models/
 * Google Colab
 
 ---
-added by g lavanya
 
 ## 👩‍💻 Author
 
